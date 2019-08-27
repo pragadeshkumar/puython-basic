@@ -1,1 +1,1 @@
-# puython-basic
+# python-basic
